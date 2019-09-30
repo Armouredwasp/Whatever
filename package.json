@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Armouredwasp/Whatever/issues"
   },
-  "homepage": "https://github.com/Armouredwasp/Whatever#readme"
+  "homepage": "https://github.com/Armouredwasp/Whatever#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
